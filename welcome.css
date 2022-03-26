@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    color: red;
+    background-color: blueviolet;
+}
+h3{
+    text-align: center;
+    color: black;
+    background-color: blueviolet;
+}
+a{
+    position: fixed;
+bottom: 0;
+right: 0;
+}
+html{
+    background-color: blueviolet;
+}
